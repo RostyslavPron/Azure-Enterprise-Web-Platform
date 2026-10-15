@@ -256,8 +256,8 @@ Cloud and Infrastructure Engineer with a focus on Microsoft Azure, Infrastructur
 
 #### Connect
 
-- GitHub: https://github.com/YOUR-GITHUB-USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN-PROFILE
+- GitHub: https://github.com/RostyslavPron
+- LinkedIn: https://linkedin.com/in/rostyslav-pron
 
 ---
 
