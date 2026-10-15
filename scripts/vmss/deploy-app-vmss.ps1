@@ -1,0 +1,12 @@
+$resourceGroup = "rg-enterprise-prod"
+$location = "canadacentral"
+
+New-AzVmss `
+    -ResourceGroupName $resourceGroup `
+    -Location $location `
+    -VMScaleSetName "app-vmss" `
+    -VirtualNetworkName "prod-vnet" `
+    -SubnetName "AppSubnet" `
+    -ImageName "Win2022Datacenter" `
+    -InstanceCount 2 `
+    -SkuName "Standard_B2s"
