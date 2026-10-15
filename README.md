@@ -29,7 +29,7 @@ To address these requirements, a multi-tier Azure architecture was designed and 
 
 ## Architecture
 
-architecture/Azure-Enterprise-Web-Platform.png
+![Image Error](architecture/Azure-Enterprise-Web-Platform.png)
 
 ---
 
