@@ -184,9 +184,7 @@ azure-enterprise-web-platform/
 │   ├── vmss/
 │   └── backup/
 │
-├── docs/
-│
-└── screenshots/
+└── docs/
 ```
 
 ---
